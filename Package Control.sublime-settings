@@ -4,14 +4,24 @@
 	],
 	"installed_packages":
 	[
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Laravel Blade Highlighter",
 		"LESS",
 		"Markdown Extended",
 		"Monokai Extended",
 		"Package Control",
+		"PHP Companion",
+		"Phpcs",
+		"Python Flake8 Lint",
+		"Sass",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimePythonIDE",
 		"Table Editor",
-		"Theme - itg.flat"
+		"Theme - itg.flat",
+		"WordCount"
 	]
 }

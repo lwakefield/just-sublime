@@ -1,0 +1,15 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"LESS",
+		"Markdown Extended",
+		"Monokai Extended",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Table Editor",
+		"Theme - itg.flat"
+	]
+}

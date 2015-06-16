@@ -4,7 +4,10 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
+		"BracketHighlighter",
 		"Color Highlighter",
+		"Colorcoder",
 		"DocBlockr",
 		"Emmet",
 		"Laravel Blade Highlighter",
